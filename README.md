@@ -92,12 +92,9 @@ This version is a true architecture diagram suite rather than a set of presentat
 
 ```text
 README.md
-README.txt
-Stirlingshire_Intelligent_BCP_DR_Architecture_Case_Study.pdf
-PNG/   35 architecture diagrams
-SVG/   35 editable vector diagrams
-DOT/   35 editable Graphviz source diagrams
-PDF/   35 standalone diagram PDFs
+bcp-dr-intelligent-control-plane.pdf
+bcp-dr-intelligent-control-plane.mp4
+Diagrams/   35 architecture diagrams
 ```
 
 ### Evidence posture
