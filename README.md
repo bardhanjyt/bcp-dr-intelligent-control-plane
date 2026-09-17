@@ -46,10 +46,6 @@ This separation makes recovery state explicit, replay safety explicit and produc
 | Automated recovery validation | **95%+** |
 | Recovery success | **99%+** |
 
-### Diagram language
-
-This version is a true architecture diagram suite rather than a set of presentation boxes. It uses nested boundaries, C4 context/container notation, deployment topology, state machines, dependency graphs, queues/events, database symbols, execution components, decision gates, failure-domain boundaries, replay/checkpoint paths, typed connectors, audit/telemetry paths and RTO/RPO evidence chains.
-
 ### 35 diagrams
 
 1. End-to-End Intelligent BCP/DR Control Plane
